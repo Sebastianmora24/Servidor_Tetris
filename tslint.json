@@ -1,0 +1,20 @@
+{
+  " defaultSeverity " : " error " ,
+  " extiende " : [
+    " tslint: recomendado "
+  ]
+  " jsRules " : {},
+  " reglas " : {
+    " sangría " : [ verdadero , " espacios " , 2 ],
+    " trailing-coma " : [
+      verdadera ,
+      {
+        " multilínea " : " nunca " ,
+        " singleline " : " nunca "
+      }
+    ]
+    " quotemark " : [ true , " single " ],
+    " preferir-para-de " : falso
+  }
+  " rulesDirectory " : []
+}
